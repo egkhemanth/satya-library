@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/satya-library/static/css/main.47121dd5.chunk.css",
-    "main.js": "/satya-library/static/js/main.cd9d50c1.chunk.js",
-    "main.js.map": "/satya-library/static/js/main.cd9d50c1.chunk.js.map",
+    "main.js": "/satya-library/static/js/main.7f194262.chunk.js",
+    "main.js.map": "/satya-library/static/js/main.7f194262.chunk.js.map",
     "runtime-main.js": "/satya-library/static/js/runtime-main.1faae2ca.js",
     "runtime-main.js.map": "/satya-library/static/js/runtime-main.1faae2ca.js.map",
     "static/css/2.22a7d4ef.chunk.css": "/satya-library/static/css/2.22a7d4ef.chunk.css",
     "static/js/2.ebf944bc.chunk.js": "/satya-library/static/js/2.ebf944bc.chunk.js",
     "static/js/2.ebf944bc.chunk.js.map": "/satya-library/static/js/2.ebf944bc.chunk.js.map",
     "index.html": "/satya-library/index.html",
-    "precache-manifest.3b55e5ec60ae37b81f0e14e565d76d44.js": "/satya-library/precache-manifest.3b55e5ec60ae37b81f0e14e565d76d44.js",
+    "precache-manifest.92075688d8f9d997f2aae0ea2a989172.js": "/satya-library/precache-manifest.92075688d8f9d997f2aae0ea2a989172.js",
     "service-worker.js": "/satya-library/service-worker.js",
     "static/css/2.22a7d4ef.chunk.css.map": "/satya-library/static/css/2.22a7d4ef.chunk.css.map",
     "static/css/main.47121dd5.chunk.css.map": "/satya-library/static/css/main.47121dd5.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.22a7d4ef.chunk.css",
     "static/js/2.ebf944bc.chunk.js",
     "static/css/main.47121dd5.chunk.css",
-    "static/js/main.cd9d50c1.chunk.js"
+    "static/js/main.7f194262.chunk.js"
   ]
 }

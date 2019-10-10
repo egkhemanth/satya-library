@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "86d88a93a7d52fbcac3ee52787c9fc88",
+    "revision": "94aaba2350c4dcf89a89e00ad181f13e",
     "url": "/satya-library/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/satya-library/static/css/2.22a7d4ef.chunk.css"
   },
   {
-    "revision": "27cf60eb0fdba90a0c65",
+    "revision": "20131fc4ee609f2cf351",
     "url": "/satya-library/static/css/main.47121dd5.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/satya-library/static/js/2.ebf944bc.chunk.js"
   },
   {
-    "revision": "27cf60eb0fdba90a0c65",
-    "url": "/satya-library/static/js/main.cd9d50c1.chunk.js"
+    "revision": "20131fc4ee609f2cf351",
+    "url": "/satya-library/static/js/main.7f194262.chunk.js"
   },
   {
     "revision": "4adaa8c673b5cb57628c",
