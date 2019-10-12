@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/satya-library/precache-manifest.074505ba97852b64e97b265bb9ea2e03.js"
+  "/satya-library/precache-manifest.86d90e9f41d68080ce51aad6bfc1c3fe.js"
 );
 
 self.addEventListener('message', (event) => {
